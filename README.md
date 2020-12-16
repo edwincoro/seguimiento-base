@@ -1,0 +1,2 @@
+# seguimiento-base
+proyecto base
